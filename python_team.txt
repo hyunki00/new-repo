@@ -8,3 +8,5 @@ members: Yang
 members: Chae
 
 friend : Pochaco
+
+데이터추가 데이터추가
