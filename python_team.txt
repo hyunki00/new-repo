@@ -5,3 +5,4 @@ manager: Lee
 members: Juli 
 members: Jack
 members: Yang
+members: Chae
